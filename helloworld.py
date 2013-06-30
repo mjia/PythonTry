@@ -1,6 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python 
+# -*- coding: utf-8 -*-
 
-#coding:utf-8  
-import sys   
-
-print "hello world"
+print "hello, 你好"  
